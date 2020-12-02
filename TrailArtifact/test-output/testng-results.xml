@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27237" started-at="2020-11-30T00:17:20 IST" finished-at="2020-11-30T00:17:47 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27237" started-at="2020-11-30T00:17:20 IST" finished-at="2020-11-30T00:17:47 IST">
+      <class name="testCases.TC1">
+        <test-method status="PASS" signature="sampleMethod()[pri:0, instance:testCases.TC1@1c3a4799]" name="sampleMethod" duration-ms="8415" started-at="2020-11-30T00:17:20 IST" finished-at="2020-11-30T00:17:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC1@1c3a4799]" name="tearDown" is-config="true" duration-ms="969" started-at="2020-11-30T00:17:29 IST" finished-at="2020-11-30T00:17:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="sampleMethod2()[pri:0, instance:testCases.TC1@1c3a4799]" name="sampleMethod2" duration-ms="8437" started-at="2020-11-30T00:17:29 IST" finished-at="2020-11-30T00:17:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleMethod2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC1@1c3a4799]" name="tearDown" is-config="true" duration-ms="719" started-at="2020-11-30T00:17:38 IST" finished-at="2020-11-30T00:17:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="sampleMethod3()[pri:0, instance:testCases.TC1@1c3a4799]" name="sampleMethod3" duration-ms="7987" started-at="2020-11-30T00:17:39 IST" finished-at="2020-11-30T00:17:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleMethod3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC1@1c3a4799]" name="tearDown" is-config="true" duration-ms="670" started-at="2020-11-30T00:17:47 IST" finished-at="2020-11-30T00:17:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="killAll()[pri:0, instance:testCases.TC1@1c3a4799]" name="killAll" is-config="true" duration-ms="2" started-at="2020-11-30T00:17:47 IST" finished-at="2020-11-30T00:17:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAll -->
+      </class> <!-- testCases.TC1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
